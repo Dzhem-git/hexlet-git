@@ -5,3 +5,4 @@ git clone git@github.com:Dzhem-git/hexlet-git.git
 cd hexlet-git
 ls -la
 git pull --rebase
+git push
