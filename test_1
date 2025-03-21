@@ -4,3 +4,4 @@ git push -u origin main
 git clone git@github.com:Dzhem-git/hexlet-git.git
 cd hexlet-git
 ls -la
+git pull --rebase
